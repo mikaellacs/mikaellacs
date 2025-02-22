@@ -4,7 +4,7 @@ I'm a beginner programmer curious to learn and improve. Currently I only take ex
 
 <div align="center">
    <div style="display: inline_block><br>
-     <img src=""C:\Users\Mikaella Correa\Desktop\programacao\html e css\aleatorios\python-original.svg"" />
+      <img align="center" height="30" width ="40" alt="css-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"/>
           
              
    </div>
