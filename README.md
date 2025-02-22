@@ -1,10 +1,8 @@
 ## Mikaella Corrêa
 
-I'm a beginner programmer curious to learn and improve. Currently I only take extracurricular courses, but I want to study Computer Science.
+I'm a beginner programmer curious to learn and improve. I'm currently studying extracurricular courses at Hashtag Programação, like JavaScript and Python, but I want to graduate in Computer Science.
 
 ##
-
-
 
 <div align="center">
    <h1>Languages</h1>   
