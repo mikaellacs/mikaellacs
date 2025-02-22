@@ -4,10 +4,10 @@ I'm a beginner programmer curious to learn and improve. Currently I only take ex
 
 ##
 
-
+## Languages
 
 <div align="center">
-## Languages
+   <h1>Languages</h1>   
    <div style="display: inline_block>
       <br>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
